@@ -1,0 +1,17 @@
+Weeks 1, 2
+* Read and summarise suggested bibliography
+
+Weeks 3, 4, 5
+* Pre-processment of an existing dataset, including data filtering, segmentation and feature extraction
+
+Weeks 6, 7, 8
+* Exploratory dataset analysis to test potential memory augmentation applications
+
+Weeks 9, 10
+* Implementation of ML/DL models for cognitive-load estimation and emotion recognition on the existing dataset
+* Automatisation of the data analysis pipeline
+* Comparison of ML/DL models
+    
+Weeks 11, 12
+* Code documentation
+* Written report of the work done with suggestions for future possibilities (Week 12)
